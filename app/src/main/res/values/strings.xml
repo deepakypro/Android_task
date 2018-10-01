@@ -1,0 +1,13 @@
+<resources>
+  <string name="app_name">Android_task</string>
+  <string name="title_home">Home</string>
+  <string name="title_dashboard">Dashboard</string>
+  <string name="title_notifications">Notifications</string>
+  <string name="upload_image">Upload Image</string>
+  <string name="newsfeed">Newsfeed</string>
+  <string name="upload">Upload</string>
+  <string name="imagelist">ImageList</string>
+
+  <!-- TODO: Remove or change this placeholder text -->
+  <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
